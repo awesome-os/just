@@ -91,3 +91,13 @@ Coming soon...
 - minimal dependencies - g++ and make only
 - keep LOC as small as possible < 5k
 - allocate as little as possible on v8 heap
+
+## Quick Install & Run (Windows / Linux / macOS)
+
+```sh
+# Install / hydrate from v11 CAS via holo-pm
+holo-pm install repository://github.com/awesome-os/just@main
+
+# Or project & run directly via holo-project (0-byte hardlink)
+holo-project "project://cpp/just?from=repository://github.com/awesome-os/just@main"
+```
