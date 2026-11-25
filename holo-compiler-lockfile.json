@@ -1,0 +1,52 @@
+{
+  "schema": "holo-compiler-lockfile-v1",
+  "abiMagic": "0x33564742",
+  "casLayout": "v11",
+  "repo": "awesome-os/just",
+  "targets": [
+    "win64",
+    "linux-x64",
+    "linux-arm64",
+    "macos-arm64",
+    "wasm32-wasi"
+  ],
+  "generatedAt": "2026-11-24T23:53:02.473Z",
+  "dependencies": [
+    {
+      "id": "awesome-os/just/just-v0.1.0.tar.zst",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "db7029fb1b268df934fdb01dbec132da0076aa2f1fe2195f9743fc76ba38b264120ae6ddcf886478336c6af6681d628589a459385c336972b3f7c3bf5e97411e",
+      "size": 76315,
+      "executable": false,
+      "blob": "v11/files/db/db7029fb1b268df934fdb01dbec132da0076aa2f1fe2195f9743fc76ba38b264120ae6ddcf886478336c6af6681d628589a459385c336972b3f7c3bf5e97411e",
+      "url": "https://github.com/awesome-os/just/releases/download/v0.1.0/just-v0.1.0.tar.zst",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/just/SHA256SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "5e787075907885573e4a7e81a9a2d48f708f76b24209a4c2a1b30afd8f520708fb37b07dc409d8671d22d9fc4e36cabb58603e60debfb680b7bb618b0fdbc61f",
+      "size": 86,
+      "executable": false,
+      "blob": "v11/files/5e/5e787075907885573e4a7e81a9a2d48f708f76b24209a4c2a1b30afd8f520708fb37b07dc409d8671d22d9fc4e36cabb58603e60debfb680b7bb618b0fdbc61f",
+      "url": "https://github.com/awesome-os/just/releases/download/v0.1.0/SHA256SUMS.txt",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/just/SHA512SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "417dea9db0611c46525b00ba0409c1c186347208a194cef2798753df9f3c526a100aa94c5f47de58b2bd84812b403e40913a3dfb20601ddaa44156cec750315f",
+      "size": 150,
+      "executable": false,
+      "blob": "v11/files/41/417dea9db0611c46525b00ba0409c1c186347208a194cef2798753df9f3c526a100aa94c5f47de58b2bd84812b403e40913a3dfb20601ddaa44156cec750315f",
+      "url": "https://github.com/awesome-os/just/releases/download/v0.1.0/SHA512SUMS.txt",
+      "dependencies": []
+    }
+  ]
+}
